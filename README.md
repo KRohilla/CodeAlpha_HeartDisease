@@ -19,7 +19,8 @@ age, sex, chest pain type (4 values), resting blood pressure, serum cholestoral 
 <br>The available dataset from the kaggle website is already a processed dataset with zero missing values and null values.
 
 <br><br>
-<strong>Exploratory Data Analysis (EDA):</strong> It is a crucial step in the machine learning pipeline, particularly for heart disease prediction. EDA involves a thorough examination of the dataset to understand its structure, detect anomalies, identify patterns, and uncover relationships between variables. This process helps in making informed decisions about data preprocessing, feature selection, and model building.
+<strong>Exploratory Data Analysis (EDA):</strong> It is a crucial step in the machine learning pipeline, particularly for heart disease prediction. EDA involves a thorough examination of the dataset to understand its structure, detect anomalies, identify patterns, and uncover relationships between variables. This process helps in making informed decisions about data preprocessing, feature selection, and model building. 
+<br>For this we have used the pandas_profiling library and make the output file for all the univariate and multivariate data analysis.
 
 <br><br>
 <strong>Feature Selection:</strong> Identifying the most relevant features that contribute to heart disease prediction. This step may involve statistical analysis, correlation studies, and domain expertise to select the most informative features.
