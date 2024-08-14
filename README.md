@@ -1,4 +1,5 @@
-# CodeAlpha HeartDisease Using the Logistic Regression
+# CodeAlpha_HeartDisease
+Heart Disease Prediction ML Model and Deploy using Streamlit
 <br>
 Heart disease prediction using machine learning and data analytics to assess an individual's risk of developing heart-related conditions. The process typically involves the following steps:
 <br>
